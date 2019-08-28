@@ -1,2 +1,3 @@
-# sitewordcount
-Crawler that searches website and links for trigger word
+# Project 2
+
+Web Programming with Python and JavaScript
